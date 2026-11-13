@@ -27,14 +27,25 @@ En esta práctica se ha desplegado un servidor web LAMP en una instancia EC2 de 
 
 ## Capturas de pantalla
 
-| Archivo | Descripción |
-|---|---|
-| `lamp_funcionando.png` | Servidor LAMP funcionando correctamente. |
-| `Grupo_seg.png` | Reglas de seguridad del grupo de AWS. |
-| `Dominio_NoIp.png` | Dominio gratuito configurado en No-IP. |
-| `CertBot_instalado.png` | Instalación de Certbot mediante Snap. |
-| `conexion_seg.png` | Comprobación de la conexión segura HTTPS. |
-| `detalles_certHTTPS.png` | Detalles del certificado HTTPS instalado. |
+## Capturas de pantalla
+
+### Servidor LAMP funcionando
+![Servidor LAMP funcionando](evidencias/lamp_funcionando.png)
+
+### Grupo de seguridad de AWS
+![Grupo de seguridad](evidencias/Grupo_seg.png)
+
+### Dominio configurado en No-IP
+![Dominio No-IP](evidencias/Dominio_NoIp.png)
+
+### Certbot instalado
+![Certbot instalado](evidencias/CertBot_instalado.png)
+
+### Conexión HTTPS
+![Conexión segura HTTPS](evidencias/conexion_seg.png)
+
+### Detalles del certificado HTTPS
+![Detalles del certificado](evidencias/detalles_certHTTPS.png)
 
 ## Uso de inteligencia artificial
 
