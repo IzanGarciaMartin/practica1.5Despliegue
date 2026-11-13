@@ -32,6 +32,7 @@ En esta práctica se ha desplegado un servidor web LAMP en una instancia EC2 de 
 | `lamp_funcionando.png` | Servidor LAMP funcionando correctamente. |
 | `Grupo_seg.png` | Reglas de seguridad del grupo de AWS. |
 | `Dominio_NoIp.png` | Dominio gratuito configurado en No-IP. |
+| `CertBot_instalado.png` | Instalación de Certbot mediante Snap. |
 | `conexion_seg.png` | Comprobación de la conexión segura HTTPS. |
 | `detalles_certHTTPS.png` | Detalles del certificado HTTPS instalado. |
 
